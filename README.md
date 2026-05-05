@@ -27,9 +27,9 @@ La estructura de navegación de la web es la siguiente:
 ## Equipo de Desarrollo
 | Nombre | Apellidos | Rol |
 | :--- | :--- | :--- |
-| Juan | Perez Garcia | Frontend Developer |
-| Maria | Rodriguez Sanz | Backend Developer |
-| Joan | Martinez Soler | Fullstack Developer |
+| Joan | del Río | Desarrollador |
+| Adrian | Roca Marron | Es Adrian |
+| Miguel Angel | Laime Campos | Es Miguelo |
 
 ## Fragmento de Código HTML
 A continuación se muestra el fragmento de código utilizado para mostrar la tarjeta de un producto en el catálogo:
