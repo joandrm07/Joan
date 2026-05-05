@@ -32,7 +32,7 @@ La estructura de navegación de la web es la siguiente:
 | Miguel Angel | Laime Campos | Es Miguelo |
 
 ## Fragmento de Código HTML
-A continuación se muestra el fragmento de código utilizado para mostrar la tarjeta de un producto en el catálogo:
+Este es el codigo HTML de un producto del catalogo
 
 ```html
 <article class="product-card">
